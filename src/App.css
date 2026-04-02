@@ -1,0 +1,7 @@
+/* App-level overrides not covered by Tailwind */
+.step-tabs-inner::-webkit-scrollbar {
+  display: none;
+}
+.step-tabs-inner {
+  scrollbar-width: none;
+}
