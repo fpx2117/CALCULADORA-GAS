@@ -79,6 +79,12 @@ npm run build
 npm run build:offline
 ```
 
+## Publicacion en GitHub Pages
+
+- Repositorio: `https://github.com/fpx2117/CALCULADORA-GAS`
+- URL esperada del sitio: `https://fpx2117.github.io/CALCULADORA-GAS/`
+- El deploy queda automatizado con GitHub Actions en cada push a `main`. 🚀
+
 ## Archivos importantes
 
 - `src/App.tsx` - orquesta el flujo principal de la calculadora.

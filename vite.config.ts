@@ -5,7 +5,7 @@ import { viteSingleFile } from 'vite-plugin-singlefile'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: './',
+  base: '/CALCULADORA-GAS/',
   plugins: [react(), viteSingleFile()],
   resolve: {
     alias: {
